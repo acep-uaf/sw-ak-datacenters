@@ -8,4 +8,4 @@ This repository contains data and research products related to the stoatworks re
 
 Contains python code to produce the vectorized graph contained in directory. Data sources also included.
 
-![Top Data Center Locations and Prices](us-top-data-center-locations\us-top-data-center-locations-with-prices.png)
+![Top Data Center Locations and Prices](./us-top-data-center-locations/us-top-data-center-locations-with-prices.png)
